@@ -1,0 +1,163 @@
+{
+  "project_info": {
+    "project_number": "234310655964",
+    "firebase_url": "https://brew-crew-88205-default-rtdb.firebaseio.com",
+    "project_id": "brew-crew-88205",
+    "storage_bucket": "brew-crew-88205.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234310655964:android:d14229ed89a15deed37919",
+        "android_client_info": {
+          "package_name": "com.AppMaker.getnowshopapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234310655964-f65j0sqebki4q7pe0kcsiq1d3pd9m3fi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.AppMaker.getnowshopapp",
+            "certificate_hash": "50689d1713d55e155fd26d45f918bdbb7fbc7aee"
+          }
+        },
+        {
+          "client_id": "234310655964-fl5pgn175h7uc2b60ve2gc21kuumhaco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZglJ4HIaGSne0bodcyeKV3L-zDYVDqMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234310655964-fl5pgn175h7uc2b60ve2gc21kuumhaco.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "234310655964-km5s6lpvi4389tsd2jbohbdlar9gu30q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.AppMaker.getnowshopapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234310655964:android:21a476e5cd32495dd37919",
+        "android_client_info": {
+          "package_name": "com.Project.practice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234310655964-fl5pgn175h7uc2b60ve2gc21kuumhaco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZglJ4HIaGSne0bodcyeKV3L-zDYVDqMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234310655964-fl5pgn175h7uc2b60ve2gc21kuumhaco.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "234310655964-km5s6lpvi4389tsd2jbohbdlar9gu30q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.AppMaker.getnowshopapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234310655964:android:f1c5da96a4578e33d37919",
+        "android_client_info": {
+          "package_name": "com.example.brew_project_practice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234310655964-fl5pgn175h7uc2b60ve2gc21kuumhaco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZglJ4HIaGSne0bodcyeKV3L-zDYVDqMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234310655964-fl5pgn175h7uc2b60ve2gc21kuumhaco.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "234310655964-km5s6lpvi4389tsd2jbohbdlar9gu30q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.AppMaker.getnowshopapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234310655964:android:86b2a583ad6f672ad37919",
+        "android_client_info": {
+          "package_name": "com.example.brew_project_trail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234310655964-fl5pgn175h7uc2b60ve2gc21kuumhaco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZglJ4HIaGSne0bodcyeKV3L-zDYVDqMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234310655964-fl5pgn175h7uc2b60ve2gc21kuumhaco.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "234310655964-km5s6lpvi4389tsd2jbohbdlar9gu30q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.AppMaker.getnowshopapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
